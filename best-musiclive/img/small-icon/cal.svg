@@ -1,0 +1,17 @@
+
+<svg width="185px" height="59px" viewBox="0 0 185 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Concept_music_site@kozader" transform="translate(-782.000000, -2581.000000)">
+            <g id="Date_calendar" transform="translate(782.000000, 2581.000000)">
+                <text id="Select-date" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="23" y="37">Select date</tspan>
+                </text>
+                <g id="calendar2">
+                    <image x="124" y="13" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABK0lEQVRYCe1X0RGCMAytnv86gqOwiYzghrqBbgBuoBPoC1KalkJTj1K8I3cP0uY1bV6KdyoVtjsotzCtx/h1XS/RGzOEWBOt28ZmnZq/qAMUqK4CtHQ+2XlszHeF4twKwcIl0LgGOJH8A0CXiXAE3PjQOLSuQq6e+ZJdwDq2IN/H8c1J1iGdUpvm+X1Qojmt2XtRl3DO6ru9dp1nHN4WMzudZ7U6ewt8Cri1Wid2g2yslXP5ep5RjfsXCoxWgFqGKnbnTdnMy67AeoApvwLWWbmbvQUSBWK/Ann5YGZXYD2A5A6IftGiGs/I2VsgUSD0FbB6LFe0blEKvHD+PZC0561GD0urdlDiXQN0gJSgPUqgMX4H9B+Qkw4mep+R9zqUm4JPIJUClJv26OwDU+aKhHIcCYMAAAAASUVORK5CYII="></image>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+                <rect id="Rectangle-94" stroke="#8E8E93" x="0.5" y="0.5" width="184" height="58"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

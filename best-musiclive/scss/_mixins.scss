@@ -1,0 +1,107 @@
+/**
+ * /* MIXI DECLARATION START
+ *
+ * @format
+ */
+
+@mixin border-radius-group($property) {
+  border-radius: $property;
+  -webkit-border-radius: $property;
+  -moz-border-radius: $property;
+  -ms-border-radius: $property;
+  -o-border-radius: $property;
+}
+
+/* transition transform START*/
+@mixin transition($transition) {
+  transition: $transition;
+  -webkit-transition: $transition;
+  -moz-transition: $transition;
+  -ms-transition: $transition;
+  -o-transition: $transition;
+}
+
+@mixin transform($transform) {
+  transform: scale($transform);
+  -webkit-transform: scale($transform);
+  -moz-transform: scale($transform);
+  -ms-transform: scale($transform);
+  -o-transform: scale($transform);
+}
+/* transition transform END*/
+/* START FONT FAMILIES*/
+@mixin font-section-structure {
+  font-family: $font-open-sans-bold;
+  font-size: $section-font-size;
+  color: $black;
+  text-decoration: none;
+}
+/* END FONT FAMILIES*/
+@mixin grid-center-center {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+/* MEDIA START*/
+@mixin container-media {
+  @media only screen and (min-width: $tablet-break) {
+    width: 728px;
+  }
+  @media only screen and (min-width: $desktop-break) {
+    width: 1280px;
+  }
+  @media only screen and (min-width: $mid-break) {
+    width: 1500px;
+  }
+  @media only screen and (min-width: $wide-break) {
+    width: 1700px;
+  }
+}
+/* MEDIA END*/
+@mixin news-pic-size {
+  height: 407px;
+  width: 407px;
+}
+
+// Underline effect for music & news section
+@mixin underline-before {
+  a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 2px;
+    font-family: $font-open-sans-regular;
+    position: relative;
+
+    &:visited {
+      color: $black;
+      text-decoration: none;
+    }
+    &:hover {
+      color: $light-red-nav;
+      text-decoration: none;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 4px;
+      bottom: -2px;
+      left: 0;
+      background-color: $light-red-nav;
+      -webkit-transform: scaleX(0);
+      transform: scaleX(0);
+      -webkit-transition: all 0.3s ease-in-out 0s;
+      transition: all 0.3s ease-in-out 0s;
+    }
+  }
+
+  &.active a:before,
+  a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
