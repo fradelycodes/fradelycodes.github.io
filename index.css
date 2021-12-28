@@ -2,6 +2,12 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 1.2rem;
+}
+
 body {
   margin: 0;
   background: no-repeat center center fixed;
@@ -81,7 +87,7 @@ p#author {
   font-size: 1rem;
 }
 
-.project-link {
-  text-decoration: none;
+a.project-link {
+  /* text-decoration: none; */
   color: white;
 }
