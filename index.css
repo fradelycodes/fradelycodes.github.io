@@ -80,3 +80,8 @@ p.weather-temp {
 p#author {
   font-size: 1rem;
 }
+
+.project-link {
+  text-decoration: none;
+  color: white;
+}
