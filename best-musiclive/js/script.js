@@ -16,6 +16,8 @@ const artistsName = [
 const localStorageArtistKey = "artistsData";
 
 const getArtistsData = async () => {
+  // We don't want to repeat the request if we already have that information on the browser
+  // The Artist info is information that is rarer changed so we can save it in the js browser localStore
   let data = localStorage.getItem(localStorageArtistKey);
   // if (data) {
   //   return JSON.parse(data);
