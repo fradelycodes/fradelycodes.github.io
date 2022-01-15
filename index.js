@@ -4,7 +4,10 @@ fetch(
   .then((res) => res.json())
   .then((data) => {
     document.body.style.backgroundImage = `url(${data.urls.regular})`;
-    document.getElementById("author").textContent = `Photo By: ${data.user.name}`;
+    console.log(data);
+    document.getElementById(
+      "author"
+    ).textContent = `Photo By: ${data.user.name}`;
   })
   .catch((err) => {
     // Use a default background image/author
