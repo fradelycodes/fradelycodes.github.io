@@ -1,0 +1,184 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>
+      Welcome to our family
+    </mj-title>
+    <mj-preview>
+      Welcome! Get 15% off your order!
+    </mj-preview>
+    <mj-style>
+      
+  u + .emailify a,
+  #MessageViewBody a,
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+
+  span.MsoHyperlink { mso-style-priority:99; color:inherit; } span.MsoHyperlinkFollowed { mso-style-priority:99; color:inherit; }
+  
+  u + .emailify .glist { margin-left: 0 !important; } 
+  
+  @media only screen and (max-width:699px) {
+    .emailify { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+    u + .emailify .glist { margin-left: 25px !important; }
+    td.x { padding-left: 0!important; padding-right: 0!important; }
+    br.sb { display: none!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    .ht-1 { display: table!important; height: auto!important; overflow: visible!important; }
+    .hr-1 { display: table-row!important; height: auto!important; overflow: visible!important; }
+    .hc-1 { display: table-cell!important; height: auto!important; overflow: visible!important; }
+    div.r.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.r.pl-16 > table > tbody > tr > td { padding-left:16px!important }td.v.s-8 > div.mj-inline-links > a.l.m { padding-right:8px!important; }div.h.pt-32 > table > tbody > tr > td { padding-top:32px!important }div.h.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.h.pb-32 > table > tbody > tr > td { padding-bottom:32px!important }div.h.pl-16 > table > tbody > tr > td { padding-left:16px!important }td.x.fs-32 span, td.x.fs-32 > div, td.x.fs-32 { font-size:32px!important }td.x.lh-37 span, td.x.lh-37 > div, td.x.lh-37 { line-height:37px!important }td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+    td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }div.g.mb-16 > table > tbody > tr > td { padding-bottom:16px!important }
+  
+  }
+    </mj-style>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="699px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=Inter:400,700" name="Inter"></mj-font>
+    <mj-style inline="inline">
+      .hd-1, .ht-1, .hr-1, .hc-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; }
+    </mj-style>
+    <mj-raw>
+      
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+    <!--[if gte mso 9]>
+    <style>
+    li {
+        text-indent: -1em;
+    }
+    </style>
+    <![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#e5e5e5" width="700px">
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="2:3" padding="16px 16px 16px 16px" text-align="left">
+      <mj-group direction="ltr" width="100%">
+        <mj-column background-color="transparent" border="none" css-class="m c  " id="2:4" vertical-align="middle" width="48.80239520958084%">
+          <mj-image align="left" alt="Spiritual Gangster" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" href="https://spiritualgangster.com/" id="11:14" padding-bottom="0" padding="0" src="img/059667586501cd2bfeb450c24e851758.png" width="144px"></mj-image>
+        </mj-column>
+        <mj-column css-class="g" padding="0" width="2.395209580838323%">
+
+        </mj-column>
+        <mj-column background-color="transparent" border="none" css-class="c  " id="2:6" vertical-align="middle" width="48.80239520958084%">
+          <mj-navbar align="right" css-class="v  s-8 ">
+            <mj-navbar-link css-class="l  " font-family="Inter, Arial, sans-serif" href="https://www.spiritualgangster.com" id="2:8" line-height="0" padding-bottom="0" padding-left="0" padding-right="0" padding-top="0" padding="0" text-transform="none">
+              <span style="mso-line-height-rule: exactly;font-size:12px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:15px;text-decoration:underline;">View in the browser</span>
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-hero background-color="#000000" background-height="460px" background-url="img/57d0fabb130b80bb308ff3b0318e5cdb.jpg" background-width="700px" border-radius="0" css-class="h  pt-32 pr-16 pb-32 pl-16 " height="460px" mode="fixed-height" padding="16px 16px 16px 16px" vertical-align="middle">
+      <mj-text align="center" css-class="x  fs-32 lh-37 m" font-family="Inter, Arial, sans-serif" font-size="50px" id="23:44" line-height="61px" padding-bottom="16px" padding="0px 0px 0px 0px">
+        <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:50px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:61px;">Welcome to our family</span></p>
+      </mj-text>
+      <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="18px" id="23:45" line-height="25px" padding-bottom="16px" padding="0px 0px 0px 0px">
+        <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#ffffff;line-height:25px;">We couldn't be happier that you found us. To welcome you to our family, please enjoy this exclusive gift </p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#ffffff;line-height:25px;">&nbsp;</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#ffffff;line-height:25px;"></span><span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:25px;">15% off your next order</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:25px;">&nbsp; by using the code:</span></p>
+      </mj-text>
+      <mj-button align="center" background-color="transparent" border-radius="60px 60px 60px 60px" border="1px solid #ffffff" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="https://spiritualgangster.com/" id="23:46" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="139px">
+        <span style="mso-line-height-rule: exactly;font-size:18px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:22px;">HAPPIER</span>
+      </mj-button>
+    </mj-hero>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="2:20" padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="2:21" vertical-align="middle" width="636px">
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="28px" id="2:22" line-height="32px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:32px;">WHO WE ARE</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="16px" id="2:23" line-height="24px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:24px;">Inspired by yogis, athletes, artists, lovers and dreamers worldwide, Spiritual Gangster is a movement designed to join ancient wisdom with modern culture. Our mission is to inspire positivity, generosity, kindness and connectedness with this goal in mind: may all beings everywhere be happy and free.</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="7:2" padding="20px 16px 20px 16px" text-align="left">
+      <mj-column background-color="#fffffe" border="none" css-class="m c  " id="I7:2;2:25" vertical-align="middle" width="273px">
+        <mj-image align="left" alt="Women's Collection" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" href="https://spiritualgangster.com/collections/womens-new-arrivals-1" id="I7:2;2:26" padding-bottom="0" padding="0" src="img/e3a2261b3b83f1c2d2ec0b4006eab84e.jpg" width="273px"></mj-image>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="transparent" border="none" css-class="c  " id="I7:2;2:27" padding="8px 8px 8px 8px" vertical-align="middle" width="279px">
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="20px" id="I7:2;2:28" line-height="24px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:20px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:24px;">Women’s Collection</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="16px" id="I7:2;2:29" line-height="24px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:24px;">Discover our women’s collection of shirts, leggins, outwear and more. Feel comfortable and beautiful everyday!</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="100px">
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="13:87" padding="20px 16px 20px 16px" text-align="left">
+      <mj-column background-color="#fffffe" border="none" css-class="m c  " id="I13:87;2:25" vertical-align="middle" width="273px">
+        <mj-image align="left" alt="Women's Collection" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" href="https://spiritualgangster.com/collections/womens-new-arrivals-1" id="I13:87;2:26" padding-bottom="0" padding="0" src="img/84226830e0089bff49d2913ca3477993.jpg" width="273px"></mj-image>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="transparent" border="none" css-class="c  " id="I13:87;2:27" padding="8px 8px 8px 8px" vertical-align="middle" width="279px">
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="20px" id="I13:87;2:28" line-height="24px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:20px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:24px;">Men’s Collection</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="16px" id="I13:87;2:29" line-height="24px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:24px;">Dive into our men’s collection and enjoy the outdoor living including shirt, hoddies, shorts and more</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="100px">
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="13:93" padding="20px 16px 20px 16px" text-align="left">
+      <mj-column background-color="#fffffe" border="none" css-class="m c  " id="I13:93;2:25" vertical-align="middle" width="273px">
+        <mj-image align="left" alt="Women's Collection" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" href="https://spiritualgangster.com/collections/womens-new-arrivals-1" id="I13:93;2:26" padding-bottom="0" padding="0" src="img/fc12d09f5de830fc3cae2a3b9c7a0a43.jpg" width="273px"></mj-image>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="transparent" border="none" css-class="c  " id="I13:93;2:27" padding="8px 8px 8px 8px" vertical-align="middle" width="279px">
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="20px" id="I13:93;2:28" line-height="24px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:20px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:24px;">Children’s Collection</span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="16px" id="I13:93;2:29" line-height="24px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:24px;">Because we also think that children should look cool and stylish we are presenting our new collections for girls and boys to join the gangster style</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="100px">
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eeeeee" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="2:51" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="2:52" vertical-align="middle" width="668px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 m" fluid-on-mobile="true" href="https://spiritualgangster.com/" id="11:22" padding-bottom="16px" padding="0" src="img/777520002b14d29ef19111272f592a53.png" width="144px"></mj-image>
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="19px" id="2:54" line-height="23px" padding-bottom="16px" padding="0px 254px 0px 254px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:19px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#4d4d4d;line-height:23px;">Spiritual Gangster</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="13px" id="2:55" line-height="16px" padding-bottom="16px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">14350 Myford Rd, Irvine, CA 92606,</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">Email: test@test.com</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp; Phone: 855-554-5932 </p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp;
+        </mj-text>
+        <mj-social align="center" css-class="o  m" inner-padding="0 14px 0 0" padding-bottom="16px" padding="0" width="132px">
+          <mj-social-element alt="Instagram" border-radius="0" css-class="e  m" href="https://www.instagram.com/spiritualgangster/" icon-height="20px" icon-size="20px" id="2:57" src="img/c431907ec52b0e501919f0456b612510.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="Facebook" border-radius="0" css-class="e  m" href="https://www.facebook.com/SpiritualGang/" icon-height="20px" icon-size="20px" id="2:59" src="img/ce69b873ebded06ac541a76ee78fab71.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="Twitter" border-radius="0" css-class="e  m" href="#insertUrlLink" icon-height="20px" icon-size="20px" id="2:61" src="img/c4159c981ea0ec86fb974f3a3eb0135c.png" vertical-align="middle"></mj-social-element>
+          <mj-social-element alt="Pinterest" border-radius="0" css-class="e  " href="https://www.pinterest.com/spiritualg/" icon-height="20px" icon-size="21px" id="2:63" padding-right="0" padding="0" src="img/c236d1fabd31354ab45fd1f7d48da56e.png" vertical-align="middle"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="13px" id="11:86" line-height="16px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">Copyright © 2021 Spiritual Gangster. All rights reserved. </p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">Free U.S. shipping requires minimum $50 purchase, some exclusions may apply.</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">You’re receiving this email because you subscribed at </span><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#be8fc2;line-height:16px;text-decoration:underline;"><a href="https://spiritualgangster.com/" style="color:#be8fc2; text-decoration:underline;" target="_blank">spiritualgangster.com</span><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#be8fc2;line-height:16px;">.</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#be8fc2;line-height:16px;">&nbsp;</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">We promise to use your information only according to our </a></span><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#be8fc2;line-height:16px;text-decoration:underline;"><a href="https://spiritualgangster.com/pages/privacy-policy" style="color:#be8fc2; text-decoration:underline;" target="_blank">privacy policy</span><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">.</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp;</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp;</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:16px;">&nbsp;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="16:50" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="16:51" vertical-align="middle" width="668px">
+        <mj-button align="center" background-color="transparent" border-radius="3px 3px 3px 3px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="16:52" inner-padding="0" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="368px">
+          <span style="mso-line-height-rule: exactly;font-size:14px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:17px;text-decoration:underline;">15% off on your next order by using the code HAPPIER</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
